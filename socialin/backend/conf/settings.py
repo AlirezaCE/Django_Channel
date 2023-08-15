@@ -52,6 +52,8 @@ INSTALLED_APPS = [
     'rest_framework_simplejwt',
     # 'multiselectfield',
     'drf_spectacular',
+    'api',
+    'user',
     'chat',
 ]
 
